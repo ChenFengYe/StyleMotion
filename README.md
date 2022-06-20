@@ -1,4 +1,4 @@
 # StyleMotion
-The implementation for the StyleMotion
+Official PyTorch implementation of StyleMotion
 
 Comming soon!
